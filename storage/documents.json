@@ -1,0 +1,71 @@
+{
+  "102310": {
+    "title": "A guide to hats",
+    "description": "A basic user guide on how to use hats",
+    "chapters": [
+      {
+        "title": "What are hats",
+        "content": "hats_spec.html"
+      },
+      {
+        "title": "Hats and how to use them",
+        "content": "using_hats.html"
+      },
+      {
+        "title": "Different types of hat",
+        "content": "all_the_hats.html"
+      }
+    ]
+  },
+  "1": {
+    "title": "Giraffes: Do we need them?",
+    "description": "A short article on the argument for giraffes",
+    "chapters": [
+      {
+        "title": "Giraffes: An Introduction",
+        "content": "introduction_to_giraffes.html"
+      },
+      {
+        "title": "Do they really need such long necks?",
+        "content": "giraffes_necks_argument.html"
+      },
+      {
+        "title": "A replacement for horses",
+        "content": "giraffes_as_horses.html"
+      },
+      {
+        "title": "Conclusion",
+        "content": "giraffe_conclusion.html"
+      }
+    ]
+  },
+  "abc123": {
+    "title": "A programmers favourite text",
+    "description": "lorem ipsum as a document",
+    "chapters": [
+      {
+        "title": "Lorum Ipsum",
+        "content": "lorum_ipsum.html"
+      },
+      {
+        "title": "Final Thoughts",
+        "content": "lorum_ipsum_conclusion.html"
+      }
+    ]
+  },
+  "secretdoc": {
+    "title": "My first confidential document",
+    "description": "A list of all my secrets",
+    "chapters": [
+      {
+        "title": "Secret #1",
+        "content": "s1.html"
+      },
+      {
+        "title": "Other secrets",
+        "content": "s2.html"
+      }
+    ],
+    "confidential": true
+  }
+}
